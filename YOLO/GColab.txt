@@ -1,0 +1,11 @@
+!pip install Pillow==9.0.0
+!pip install pytesseract
+!apt install tesseract-ocr
+
+don't use ! with cd command
+
+!pip3 install -r requirements.txt
+
+!pip3 install -r requirements_gpu.txt
+
+!python3 detect_or_track.py --weight yolov7x.pt --conf 0.6 --classes 0 --img-size 640 --source /content/drive/MyDrive/YOLO/yolo-v7-detect-and-track-e-safer/20230517T142103_867648049628025_r140765248_x365y250.mp4 --scooter-inf

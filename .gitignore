@@ -1,0 +1,5 @@
+jupyter notebook/
+*.ipynb
+.ipynb_checkpoints
+Video data/
+LiDAR Data/
